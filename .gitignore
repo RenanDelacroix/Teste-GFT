@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.vsidx
+*.lock
+/Questao1/obj/Debug/net6.0/Questao1.assets.cache
+/Questao1/obj/Debug/net6.0/Questao1.GeneratedMSBuildEditorConfig.editorconfig
+/Questao2/obj/Debug/net6.0/Questao2.assets.cache
+/Questao2/obj/Debug/net6.0/Questao2.GeneratedMSBuildEditorConfig.editorconfig
+/Questao5/obj/Debug/net6.0/Questao5.assets.cache
+/Questao5/obj/Debug/net6.0/Questao5.GeneratedMSBuildEditorConfig.editorconfig
