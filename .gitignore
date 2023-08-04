@@ -4,13 +4,16 @@
 
 *.vsidx
 *.lock
+*.suo
+*.dll.pbd
+*.cache
 /Questao1/obj/Debug/net6.0/Questao1.assets.cache
 /Questao1/obj/Debug/net6.0/Questao1.GeneratedMSBuildEditorConfig.editorconfig
 /Questao2/obj/Debug/net6.0/Questao2.assets.cache
 /Questao2/obj/Debug/net6.0/Questao2.GeneratedMSBuildEditorConfig.editorconfig
 /Questao5/obj/Debug/net6.0/Questao5.assets.cache
 /Questao5/obj/Debug/net6.0/Questao5.GeneratedMSBuildEditorConfig.editorconfig
-*.suo
+
 /Questao1/bin/Debug/net6.0/Questao1.dll
 /Questao1/bin/Debug/net6.0/Questao1.pdb
 /Questao1/obj/Debug/net6.0/Questao1.csproj.FileListAbsolute.txt
